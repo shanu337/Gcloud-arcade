@@ -55,6 +55,11 @@ Successfully completed **Google Cloud Arcade Base Camp (April 2026)**
 - Hands-on practice builds deeper understanding than courses  
 
 ---
+## 📌 Favorite Lab
+Cloud NGFW – Firewall Migration  
+→ Most challenging but taught real networking + debugging
+
+---
 
 ## 🚀 What's Next
 
