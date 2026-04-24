@@ -3,7 +3,7 @@
 ## 🏆 Achievement
 Successfully completed **Google Cloud Arcade Base Camp (April 2026)**
 
-![Badge](screenshots/badge.png)
+![Badge](https://ibb.co/bMRFwMzH)
 
 ---
 
