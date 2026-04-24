@@ -60,7 +60,6 @@ Cloud NGFW – Firewall Migration
 → Most challenging but taught real networking + debugging
 
 ---
-
 ## 💻 Sample Commands
 
 ```bash
