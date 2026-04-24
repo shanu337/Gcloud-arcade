@@ -1,8 +1,3 @@
----
-
-# 📁 `notes/kubernetes.md`
-
-```md
 # ☸️ Kubernetes (GKE Deployment)
 
 ## 🧠 What is Kubernetes?
