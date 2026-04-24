@@ -61,6 +61,15 @@ Cloud NGFW – Firewall Migration
 
 ---
 
+## 💻 Sample Commands
+
+```bash
+gcloud container clusters create ...
+kubectl get pods
+gcloud compute firewall-rules create ...
+
+---
+
 ## 🚀 What's Next
 
 Continuing Google Cloud Arcade:
