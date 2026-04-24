@@ -15,13 +15,14 @@ Successfully completed **Google Cloud Arcade Base Camp (April 2026)**
 - 📡 Pub/Sub (Event-driven systems)
 - ⚖️ Load Balancing (HTTPS)
 - 💰 Cost Optimization
-
+- ⚛️ GKE
+- 🌐 Extended App LB (HTTPS)
 ---
 
 ## ⚡ Real Challenges Faced
 
 - Kubernetes deployment took multiple attempts (debugging + retries)
-- Faced CLI errors like `NoneType startswith`
+- Faced CLI errors like `'NoneType' object has no attribute 'startswith'`
 - Learned troubleshooting in Cloud Shell environment
 - Understood how small config mistakes break systems
 
@@ -34,6 +35,8 @@ Successfully completed **Google Cloud Arcade Base Camp (April 2026)**
 - Kubernetes Engine (GKE)
 - Pub/Sub
 - VPC & Firewall Rules
+- Compute Engines 
+- VM Instances
 
 ---
 
