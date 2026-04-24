@@ -60,15 +60,6 @@ Cloud NGFW – Firewall Migration
 → Most challenging but taught real networking + debugging
 
 ---
-## 💻 Sample Commands
-
-```bash
-gcloud container clusters create ...
-kubectl get pods
-gcloud compute firewall-rules create ...
-
----
-
 ## 🚀 What's Next
 
 Continuing Google Cloud Arcade:
@@ -78,3 +69,11 @@ Continuing Google Cloud Arcade:
 ➡️ Adventure  
 
 Also building real-world cloud projects 🚀
+
+---
+## 💻 Sample Commands
+
+```bash
+gcloud container clusters create ...
+kubectl get pods
+gcloud compute firewall-rules create ...
