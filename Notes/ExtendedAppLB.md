@@ -64,4 +64,13 @@ A global load balancer in Google Cloud that distributes user traffic across mult
 
 ---
 
-## ⚡ Flow
+## ⚡ Flow (Important)
+
+User Request → Forwarding Rule → Target Proxy → URL Map → Backend Service → VM Instances
+
+---
+
+## 🧠 Personal Note
+
+This lab felt like building a real production-level system.  
+Understanding how traffic flows across components was a huge learning moment 🚀
